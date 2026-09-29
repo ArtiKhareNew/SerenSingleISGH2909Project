@@ -12,7 +12,7 @@ packages:
   gitServerName: srcCtrl_shared_gitlab_Arti
   gitUrl: https://gitlab.com/ArtiKhareGitlab
   gitUsername: ArtiKhareGitlab
-  gitBranch: master
+  gitBranch: secondbranch
 services:
 - serviceName: project.serensingleisgh2909.integrations:gitlabfs
   packages:
